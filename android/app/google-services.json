@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967969729859",
+    "project_id": "ventspace-a7667",
+    "storage_bucket": "ventspace-a7667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967969729859:android:7c4f57f217576a90c613f6",
+        "android_client_info": {
+          "package_name": "com.example.ventspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbuIJIdV3LZq0-VzJyeEaq0bxs21bgmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
